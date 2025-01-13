@@ -1,6 +1,9 @@
 <div align="center">
     <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Doto&size=28&pause=1000&color=6AF735&center=true&vCenter=true&width=1010&lines=Hi%2C+I+am+Koushik+Alapati;Bringing+machines+to+life%2C+one+algorithm+at+a+time." alt="Typing SVG" /></a>
 </div>
+<div align="center">
+    <img src="https://media.giphy.com/media/3o7abtn7DuREEpsyWY/giphy.gif" alt="Robot GIF" width="400" />
+</div>
 
 <h3 align="center">Currently pursuing a Master’s in Robotics Engineering</h3>
 <h2>🚀 Languages and Tools I Use</h2>
